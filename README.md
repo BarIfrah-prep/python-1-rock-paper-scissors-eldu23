@@ -28,10 +28,10 @@ input: player input range 1-3 that
  output:"you want to continue? y/n?"
  
  two options:
- 1 input: yes
- output:"Choose your choice Rock(1),Paper(2),Scissors(3)"
+   1 input: yes
+     output:"Choose your choice Rock(1),Paper(2),Scissors(3)"
  
- 2 input:no
- output: thanks for playing the game
+   2 input:no
+     output: thanks for playing the game
  
  
